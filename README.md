@@ -1,29 +1,23 @@
-# 🌐 Gowri Javgal — Code, Curiosity & Controlled Chaos
+Gowri Javgal
+Computer Science & Engineering Student | VTU
 
-> ⚡ Breaking boundaries (not systems).  
-> 🔍 Exploring the edges of cybersecurity, AI, and embedded sorcery.  
-> 🤖 Where microcontrollers meet mischief — ethically, of course.
+I am a CSE student focused on the intersection of Software Engineering and Artificial Intelligence. I enjoy the process of taking a concept from a logic-based theory to a functional, deployed application. My approach to development is grounded in building clean, efficient code that solves practical problems.
 
----
+🧠 Core Interests
+Full-Stack Development: Crafting responsive web applications with a focus on seamless user experiences.
 
-## 🧠 My Brain Is Wired For:
-- Asking *“What if?”* and then making it real.
-- Thinking like a hacker, building like an engineer.
-- Merging code with creativity until sparks fly (sometimes literally).
+Intelligent Systems: Exploring Computer Vision and Machine Learning to bridge the gap between data and action.
 
----
+Algorithmic Logic: A strong foundation in the Theory of Computation and quantitative problem-solving.
 
-## 🛸 Currently Navigating:
-- 🕵️ Ethical keylogging (for defense, not drama)
-- 🤖 Smarter bots with tinier brains (hello, microcontrollers!)
-- 🧩 Solving puzzles that don’t even exist yet
+Modern Infrastructure: Integrating cloud-based tools (AWS) and Python-driven data analysis into my development workflow.
 
----
+🛠️ Technical Toolkit
+Languages: Python, JavaScript, PHP, HTML/CSS
 
-## 🦾 Motto
-> *"Build boldly. Hack wisely. Stay curious."*
+Data & AI: Pandas, Matplotlib, Seaborn, Computer Vision (YOLO/Roboflow)
 
----
+Development: Full-Stack Web, Git, AWS Deployment, SQL/NoSQL
 
 ## 💬 Find Me In The Wild:
 - 📬 gowrijavgal07@gmail.com 
