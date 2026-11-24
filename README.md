@@ -1,31 +1,25 @@
-Gowri Javgal
-Computer Science & Engineering Student | VTU
+## Hi, I'm Gowri 👋
 
-I am a CSE student focused on the intersection of Software Engineering and Artificial Intelligence. I enjoy the process of taking a concept from a logic-based theory to a functional, deployed application. My approach to development is grounded in building clean, efficient code that solves practical problems.
+Computer Science undergraduate at Atria Institute of Technology, Bengaluru (graduating 2027).
+I build **data pipelines, analytics dashboards and ML systems**, and I'm looking for **data engineering and data analytics internships / roles**.
 
-🧠 Core Interests
-Full-Stack Development: Crafting responsive web applications with a focus on seamless user experiences.
+- 🔧 Currently building: PySpark pipelines on a Dockerized Spark cluster
+- 📄 Research: *Behavioral Profiling and Real-Time Threat Mitigation Using Machine Learning Ensembles on Windows Sysmon Telemetry*, accepted at ICAIET 2026
+- 📫 Reach me: [gowrijavgal07@gmail.com](mailto:gowrijavgal07@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gowri-javgal-02a883279)
 
-Intelligent Systems: Exploring Computer Vision and Machine Learning to bridge the gap between data and action.
+### Featured projects
 
-Algorithmic Logic: A strong foundation in the Theory of Computation and quantitative problem-solving.
+| Project | What it does | Stack |
+|---|---|---|
+| [Retail Data Pipeline](https://github.com/Gowri-7124/retail-pyspark) | Bronze/silver/gold medallion pipeline over 1M transaction records with injected data-quality defects, cleaned in Spark and reported in Power BI | PySpark, Docker Compose, Parquet, Power BI |
+| [AI Malware Behaviour Profiler](https://github.com/Gowri-7124/malware-profiling-project) | Real-time SOC dashboard that classifies 10 malware families from live Sysmon telemetry, with SHAP explanations | XGBoost, SHAP, FastAPI, React, MySQL |
+| [Alzheimer's Diagnosis Analysis](https://github.com/Gowri-7124/Alzeimer-s_Diagnosis_data_analysis) | EDA and SQL analysis of 74,000+ patient records to compare diagnosed and non-diagnosed groups | Python, Pandas, PostgreSQL, Power BI |
+| [Customer Behaviour Analysis](https://github.com/Gowri-7124/Customer_Behaviour_Analysis) | End-to-end Python ETL into PostgreSQL with Power BI dashboards | Python, PostgreSQL, Power BI |
 
-Modern Infrastructure: Integrating cloud-based tools (AWS) and Python-driven data analysis into my development workflow.
+### Toolkit
 
-🛠️ Technical Toolkit
-Languages: Python, JavaScript, PHP, HTML/CSS
-
-Data & AI: Pandas, Matplotlib, Seaborn, Computer Vision (YOLO/Roboflow)
-
-Development: Full-Stack Web, Git, AWS Deployment, SQL/NoSQL
-
-## 💬 Find Me In The Wild:
-- 📬 gowrijavgal07@gmail.com 
-- 🌍 https://www.linkedin.com/in/gowri-javgal-padmanabha
-
----
-
-Thanks for scrolling through my digital playground.  
-Pull up a repo, poke around, and maybe let’s create something weirdly awesome. 🚀
-
-
+**Data engineering:** PySpark · Spark · Parquet · Docker · Docker Compose
+**Analytics & BI:** SQL · Pandas · NumPy · Power BI · Excel · Matplotlib · Seaborn
+**Machine learning:** Scikit-learn · XGBoost · SHAP
+**Databases & cloud:** PostgreSQL · MySQL · AWS (S3, Lambda)
+**Languages & web:** Python · SQL · Java · JavaScript · C · FastAPI · React
